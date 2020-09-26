@@ -31,7 +31,7 @@ Raspberry                   0 hrs 30 mins       ██::::::::::::::::::::::::: 
 </a>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<h3 align="center"> _ ▂ ▄ ▅ ▆  ℂ𝕠𝕟𝕥á𝕔𝕥𝕒𝕞𝕖 ▆ ▅ ▄ ▂ _ </h3>
+<h3 align="center"> _ ▂ ▄ ▅ ▆   ℂ𝕠𝕟𝕥á𝕔𝕥𝕒𝕞𝕖   ▆ ▅ ▄ ▂ _ </h3>
 
 <p align="center">
   <a href="http://www.cyberlas.somee.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.cyberlas.somee.com-blue?style=flat-square&logo=google-chrome"></a>
