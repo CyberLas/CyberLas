@@ -18,7 +18,7 @@ Windows 10                   3 hrs 30 mins      █████████:::::
 Arch Linux                  12 hrs 5 mins       ██████████████████████:::::   70.0%
 
 💻 MiniServidor Propio
-Raspberry                   0 hrs 30 mins       ██:::::::::::::::::::::::::    5.0%
+Raspbian                    0 hrs 30 mins       ██:::::::::::::::::::::::::    5.0%
 ```
 
 <a href="https://github.com/CyberLas">
