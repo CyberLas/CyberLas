@@ -21,6 +21,8 @@ Raspbian                    0 hrs 30 mins       ██::::::::::::::::::::::::: 
 <a href="https://github.com/CyberLas">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=CyberLas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberLas&show_icons=true&theme=radical)
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
