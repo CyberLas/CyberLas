@@ -11,6 +11,8 @@ Arch Linux                  12 hrs 5 mins       ██████████�
 Raspbian                    0 hrs 30 mins       ██:::::::::::::::::::::::::    5.0%
 ```
 
+📊  **ESTADISCTICAS DE LENGUAJES DE PROGRAMACIÓN** 
+
 <a href="https://github.com/CyberLas">
   <img align="left" margin-left="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberLas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
