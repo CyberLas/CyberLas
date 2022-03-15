@@ -2,10 +2,10 @@
 
 ```text
 💻 Juegos y Entretenimiento
-Windows 10                  3 hrs 30 mins       █████████████████████::::::   50.0%
+Windows 11                  3 hrs 30 mins       █████████████████████::::::   60.0%
 
-💻 Estacion de Trabajo
-Arch Linux                  12 hrs 5 mins       ██████████████████████:::::   50.0%
+💻 Estacion de Trabajo (Desplique)
+Arch Linux                  12 hrs 5 mins       ████████████:::::::::::::::   35.0%
 
 💻 MiniServidor Propio
 Raspbian                    0 hrs 30 mins       ██:::::::::::::::::::::::::    5.0%
@@ -42,5 +42,5 @@ Raspbian                    0 hrs 30 mins       ██::::::::::::::::::::::::: 
   <a href="http://www.cyberlas.somee.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.cyberlas.somee.com-blue?style=flat-square&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Carlos%20Angeles-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Carlos Angeles-blue?style=flat-square&logo=instagram"></a>
-  <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-caamnil@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<!--   <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-caamnil@gmail.com-blue?style=flat-square&logo=gmail"></a> -->
 </p>
