@@ -7,7 +7,7 @@ Windows 11                  3 hrs 30 mins       ██████████�
 💻 Estacion de Trabajo (Desplique)
 Arch Linux                  12 hrs 5 mins       ████████████:::::::::::::::   35.0%
 
-💻 MiniServidor Propio
+💻 MiniServidor Propio (RASPBERRY)
 Raspbian                    0 hrs 30 mins       ██:::::::::::::::::::::::::    5.0%
 ```
 
