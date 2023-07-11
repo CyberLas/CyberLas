@@ -1,33 +1,27 @@
-<h1 align ="center">Hola,
-    <img src ="https://drive.google.com/uc?export=view&id=1hdtPYtcno6Z9owg3qrWxBZ-csBM5Dy0W" width = 35/> 
-    Soy Carlos Angeles
-</h1>
+<h1 align ="center">Hola, ✌️ Soy Carlos Angeles </h1>
 
-<img src = "https://drive.google.com/uc?export=view&id=1FxN5bfKfuED68yE1DMlrhk69_0txr-Ra" align ="right" width = 50%>
 <div align = "left" width = 50%>
     <ul>
         <strong> 😀 Un poco sobre mi </strong>
         <p align='center'>
-            Soy un Desarrollador Full Stack Software 🚀 tener una experiencia en la creación de Aplicaciones Web y de Escritorio con JavaScript / Reactjs / Nodejs / Electron y algunas otras bibliotecas y frameworks
+            Soy un Desarrollador Full Stack Software 🚀 tener una experiencia en la creación de Aplicaciones Web y de Escritorio con JavaScript/ Python / Reactjs / Nodejs / Electron y algunas otras bibliotecas y frameworks
         </p>
     </ul>
-    <br/>
     <br/>
     <ul>
         <strong> 💪 Mis Habilidades </strong>
 
 ```text
-🎨 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱    ███████████████::::::::::  60.00 %
-🔌 𝗕𝗮𝗰𝗸𝗲𝗻𝗱    ██████████:::::::::::::::  40.00 %
-🔩 𝗗𝗲𝘃𝗢𝗽𝘀     █████::::::::::::::::::::  20.00 %
+🎨 Frontend       ███████████████::::::::::::   57.43%
+🔌 Backend        ████████████:::::::::::::::   40.07%
+🔩 DevOps         ████████:::::::::::::::::::   34.49%
 ```
 </div>
 
 <br/>
-<br/>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;
+    📈&nbsp;
     <i>
         <b>𝐀𝐜𝐭𝐢𝐯𝐢𝐝𝐚𝐝 𝐆𝐢𝐭</b>
     </i>
@@ -42,17 +36,10 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://wakatime.com/@Kail">
-        <img src="https://activity-graph.herokuapp.com/graph?username=CyberLas&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Grafico%20de%20Contribucion%20de%20Todos%20los%20Repositorios" width="96%" alt="activity graph"/>
-    </a>
-</p>
-
 <br/>
 <p align="center">
-    <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30px" alt="Git"/>&nbsp;
     <i>
-        <b>𝐏𝐮𝐧𝐭𝐮𝐚𝐜𝐢𝐨𝐧𝐞𝐬 𝐝𝐞𝐥 𝐏𝐞𝐫𝐟𝐢𝐥 𝐆𝐢𝐭</b>
+        <b> 🏆 𝐏𝐮𝐧𝐭𝐮𝐚𝐜𝐢𝐨𝐧𝐞𝐬 𝐝𝐞𝐥 𝐏𝐞𝐫𝐟𝐢𝐥 𝐆𝐢𝐭</b>
     </i>
 </p>
 <hr/>
