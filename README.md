@@ -53,10 +53,10 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/pulls?q=is%3Apr+author%3ACyberLas+archived%3Afalse+is%3Aclosed">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberLas&theme=github_dark&utcOffset=4"  width="31%" alt="@Kayl"/>
-    </a>
     <a href="https://github.com/issues?q=is%3Aissue+author%3ACyberLas+archived%3Afalse+is%3Aclosed">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberLas&theme=github_dark&hide_border=true"  width="65%" alt="@Kayl"/>
+    </a>
+    <a href="https://github.com/pulls?q=is%3Apr+author%3ACyberLas+archived%3Afalse+is%3Aclosed">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberLas&theme=github_dark&utcOffset=4"  width="31%" alt="@Kayl"/>
     </a>
 </p>
