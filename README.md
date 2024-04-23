@@ -5,9 +5,8 @@
     <ul>
         <strong> 👨‍💻 Sobre mí </strong>
         <p align='justify'>
-            Soy un Desarrollador Full Stack Software 🚀 tengo experiencia en la creación de Aplicaciones Web y de Escritorio con JavaScript/Python/Reactjs/Nodejs/Electron y algunas otras bibliotecas y frameworks.
+            Soy un Ingeniero de Sistemas con experiencia en Frontend, Backend y Devops. Me apasiona Backend y Frontend. Disfruto trabajando en proyectos desafiantes y colaborando con equipos creativos.
         </p>
-        <br/>
         <p align="center">
             <a href="https://github.com/cyberlas"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Github"></a>
             <a href="https://carlosangeles.netlify.app"><img src="https://img.shields.io/badge/-Página-red?style=flat&logo=appveyor&logoColor=white" alt="Página"></a>
@@ -15,9 +14,10 @@
         </p>
     </ul>
 </p>
+<br/>
 <p align="left">
     <ul>
-        <strong> 👨‍💻 Mis Destrezas en </strong>
+        <strong> 👨‍💻 Tecnologías y Habilidades </strong>
 		<table>
 			<tr>
 				<td valign="top" width="25%">
@@ -94,7 +94,7 @@
 </table>
     </ul>
 </p>
-
+<br/>
 <p align="center">
     <strong> 📊 Métricas del Repositorio </strong>
     <p align="center">
