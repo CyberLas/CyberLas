@@ -20,7 +20,7 @@
         <strong> 👨‍💻 Mis Destrezas en </strong>
 		<table>
 			<tr>
-				<td valign="top" width="20%">
+				<td valign="top" width="25%">
 
 ### Frontend
 
@@ -38,7 +38,7 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### Backend
 
@@ -60,7 +60,7 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="25%">
 
 ### DevOps
 
@@ -74,7 +74,7 @@
 </div>
 
 </td>
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### OS
 
