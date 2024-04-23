@@ -41,6 +41,7 @@
 
 ### Backend
 <div align="center">  
+	<img style="margin: 10px" src="https://img.icons8.com/?size=256&id=zdI5E8moxhs-&format=png" alt="Graphql" height="50" />
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
@@ -60,6 +61,7 @@
 ### DevOps
 
 <div align="center">  
+	<img style="margin: 10px" src="https://img.icons8.com/?size=48&id=9uVrNMu3Zx1K&format=png" alt="AWS" height="50" />
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
