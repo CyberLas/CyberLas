@@ -136,6 +136,7 @@
 ### OS
 
 <div align="center">
+	<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg" alt="WINODWS11" height="50" title="Windows 11 - Sistema operativo de Microsoft" />
 	<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg" alt="WINODWS11" height="50" />
 	<img style="margin: 10px" src="https://clicksecurity.com.do/wp-content/uploads/2023/01/windows-server-logo.png" alt="WINDOWSSERVER" height="50" />
 	<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Archlinux-logo-standard-version.png" alt="ARCHLINUX" height="50" />
