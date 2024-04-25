@@ -136,14 +136,27 @@
 ### OS
 
 <div align="center">
-	<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg" alt="WINODWS11" height="50" title="Windows 11 - Sistema operativo de Microsoft" />
-	<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg" alt="WINODWS11" height="50" />
-	<img style="margin: 10px" src="https://clicksecurity.com.do/wp-content/uploads/2023/01/windows-server-logo.png" alt="WINDOWSSERVER" height="50" />
-	<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Archlinux-logo-standard-version.png" alt="ARCHLINUX" height="50" />
-	<img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/centos-icon-2048x2048-39pfdqnc.png" alt="CENTOS" height="50" />
-	<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Ubuntu_logo_orange.png" alt="UBUNTU" height="50" />
-	<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-debian-12-1175232.png?f=webp" alt="DEBIAN" height="50" />
-	<img style="margin: 10px" src="https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/256.png" alt="RASPBERRYPI" height="50" />
+	<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg" alt="WINODWS11" height="50" title="Windows
+Uso: Cotidiano
+Manejo: Normal"/>
+	<img style="margin: 10px" src="https://clicksecurity.com.do/wp-content/uploads/2023/01/windows-server-logo.png" alt="WINDOWSSERVER" height="50" title="Windows Server
+Uso: Bajo
+Manejo: Normal"/>
+	<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Archlinux-logo-standard-version.png" alt="ARCHLINUX" height="50" title="Arch Linux
+Uso: Bajo
+Manejo: Normal"/>
+	<img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/centos-icon-2048x2048-39pfdqnc.png" alt="CENTOS" height="50" title="CentOS 7/8
+Uso: Normal
+Manejo: Normal"/>
+	<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Ubuntu_logo_orange.png" alt="UBUNTU" height="50" title="Ubuntu
+Uso: Normal
+Manejo: Normal"/>
+	<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-debian-12-1175232.png?f=webp" alt="DEBIAN" height="50" title="Debian
+Uso: Bajo
+Manejo: Normal"/>
+	<img style="margin: 10px" src="https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/256.png" alt="RASPBERRYPI" height="50" title="Raspberry pi 3/4
+Uso: Bajo
+Manejo: Normal"/>
 </div>
 
 </td>
